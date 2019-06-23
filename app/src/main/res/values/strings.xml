@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercise4</string>
+    <string name="button_text">Connect</string>
+    <string name="port_string">Port:</string>
+    <string name="ip_string">IP:</string>
+    <string name="ip_input">10.0.2.2</string>
+    <string name="port_input">1234</string>
+</resources>
